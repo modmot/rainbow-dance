@@ -1,4 +1,5 @@
 step left.
 step right.
 jump up and down.
+twirl our hands.
 do the rainbow dance.
